@@ -1,4 +1,6 @@
 streamlit
+PyPDF2
+streamlit
 openai==0.28
 requests
 openpyxl
